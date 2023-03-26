@@ -25,6 +25,9 @@ export default function Home({ allPostsData }) {
           es desarrollar soluciones integrales con las mejores herramientas que estan a la vanguardia.
           Amo JS 💛
         </p>
+        <p>
+          Haciendo un testeo desde otra rama. 🌳
+        </p>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>
